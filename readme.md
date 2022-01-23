@@ -20,3 +20,5 @@ Delete the existing ```favicon.png``` file and add the file you want to add via 
 ### For changing the background music
 
 Delete the existing ```main.mp3``` file and add the file you want to add via clicking on add files option and upload files option. **Be sure to name that file as main.mp3**
+
+*Note: It may take few minutes for changes to appear on website.*
